@@ -5,4 +5,4 @@ The purpose of this machine is to sort a set of balls according to their weight.
 
 At this stage, two problems have to be considered and solved during the design process: 
 
-Problem 1: Construction of the seesaws: the heavier ball  can arrive on any one of the seesaw sides, it must however be placed on the same track at the exit
+Problem 1: Construction of the seesaws: the heavier ball  can arrive on any one of the seesaw sides, it must however be placed on the same track at the exit. 
