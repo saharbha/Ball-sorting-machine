@@ -11,4 +11,4 @@ Problem 2: it is always necessary to keep enough slope so that balls do not stop
 
 Problem 3: What to do so that seesaws do not start before both balls get there. Otherwise, it is always the first arrived ball that will be considered to be the heaviest, and the second will not be any more in circuit. 
 
-Problem 4: It is very important that found technical solutions to be simple enough so that the mechanical, automatic aspect of this sorting remains visible. 
+Problem 4: It is very important that found technical solutions  be simple enough so that the mechanical, automatic aspect of this sorting remains visible. 
