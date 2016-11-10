@@ -12,3 +12,9 @@ Problem 2: it is always necessary to keep enough slope so that balls do not stop
 Problem 3: What to do so that seesaws do not start before both balls get there. Otherwise, it is always the first arrived ball that will be considered to be the heaviest, and the second will not be any more in circuit. 
 
 Problem 4: It is very important that found technical solutions  be simple enough so that the mechanical, automatic aspect of this sorting remains visible. 
+
+The machine is composed of 3 main pieces: 
+
+1. The release mechanism [I'm an inline-style link](https://github.com/saharbha/Ball-sorting-machine/wiki/Release-mechanism)
+
+2. The Balance : It is free where to place how many balances to use. [I'm an inline-style link](https://github.com/saharbha/Ball-sorting-machine/wiki/The-Balance)
